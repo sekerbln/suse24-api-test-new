@@ -1,0 +1,26 @@
+[
+  {
+    "id": "544db309-40cf-4dd8-8662-c10ed3502a5d",
+    "question": "How satisfied are you with the level of peace and quiet in your current living environment?"
+  },
+  {
+    "id": "0c09e601-3f13-4d46-8895-6a03fff9d669",
+    "question": "How do you rate the availability of recreational activities in the city versus the countryside?"
+  },
+  {
+    "id": "e1963847-7a09-4a6f-9501-817a6aad0648",
+    "question": "How satisfied are you with the level of social interaction and community feeling where you live?"
+  },
+  {
+    "id": "0b7718ed-f864-42fc-a841-e594cef004eb",
+    "question": "How satisfied are you with the level of safety and security in your current living area?"
+  },
+  {
+    "id": "df8c6911-9807-44e2-91fd-9fe8b4ca8fd1",
+    "question": "How do you rate the convenience of transportation options in the city versus the countryside?"
+  },
+  {
+    "id": "5307e4a7-69f3-4fa5-8106-21e6de602c94",
+    "question": "How satisfied are you with the cost of living in the city compared to the countryside?"
+  }
+]
